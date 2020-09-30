@@ -5,4 +5,4 @@ relative_links:
   collections: true
 include:
   - data-refresh.md
-theme: jekyll-theme-minimal
+theme: jekyll-theme-time-machine
