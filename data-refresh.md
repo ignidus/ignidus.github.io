@@ -1,3 +1,3 @@
 # Bringing Real-World Data Back to Development
 
-<embed src="https://ignidus.github.io/DBRefresh.pdf" type="application/pdf" />
+<a href="https://ignidus.github.io/DBRefresh.pdf" type="application/pdf" target="_blank">DB Refresh</a>
