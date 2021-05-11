@@ -1,3 +1,3 @@
 # Bringing Real-World Data Back to Development
 
-{{ site.baseurl }}/DBRefresh.docx
+<embed src="https://ignidus.github.io/DBRefresh.pdf" type="application/pdf" />
